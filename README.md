@@ -41,7 +41,7 @@ A primeira linha indica o número de nós. As linhas seguintes representam as ar
 
 ## Requisitos
 
-- Navegador moderno (não requer instalação de dependências).
+- não requer instalação de dependências.
 
 ## Autor
 
